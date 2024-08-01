@@ -1,0 +1,5 @@
+.DS_Store
+.cache
+toynet
+*.o
+compile_commands.json
