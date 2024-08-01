@@ -1,10 +1,7 @@
 #include <assert.h>
-#include <float.h>
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <time.h>
 
 void copy_matrix(float *dest, float *src, int size) {
     for (int i = 0; i < size; i++) {
